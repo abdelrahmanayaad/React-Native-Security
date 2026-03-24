@@ -52,7 +52,7 @@ Tokens are managed via `src/services/Storage.ts` using `react-native-keychain`, 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abdelrahmanayaad/React-Native-Security
    cd ReactNativeSecurity
    ```
 2. Install dependencies:
